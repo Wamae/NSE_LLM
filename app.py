@@ -25,7 +25,7 @@ os.environ['OPENAI_API_KEY'] = 'yourapikeyhere'
 llm = OpenAI(temperature=0.1, verbose=True)
 
 # Create and load PDF Loader
-loader = PyPDFLoader('annualreport.pdf')
+loader = PyPDFLoader('nse_kenya_annual_report_2017.pdf')
 # Split pages from pdf 
 pages = loader.load_and_split()
 # Load documents into vector database aka ChromaDB
