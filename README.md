@@ -12,3 +12,5 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 > TODO: code
 
 
+## Reference:
+https://github.com/nicknochnack
