@@ -1,4 +1,4 @@
-# Leveraging NSE and OpenAI or any Large Language Model to ask pdf questions
+# Leveraging NSE and OpenAI or any Large Language Model to interact with pdf
 
 This project uses the following technologies:
 - ChromaDB
