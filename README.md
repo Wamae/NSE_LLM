@@ -1,4 +1,4 @@
-# Leveraging Nairobi Stock Exchange (NSE) and OpenAI or any Large Language Model (LLM) to interact with pdf
+# Leveraging Nairobi Stock Exchange (NSE) and OpenAI or any Large Language Model (LLM).
 
 This project is an NSE project where you can interact with the NSE 2017 annual report.
 You can ask any kind of question to the PDF using Retrieval Augmented Generation (RAG).
@@ -8,7 +8,6 @@ You can ask any kind of question to the PDF using Retrieval Augmented Generation
 - [Python](https://www.python.org/)
 - [ChromaDB](https://www.trychroma.com/)
 - [Langchain](https://python.langchain.com/docs/get_started/introduction)
-- [OpenAI](https://openai.com/)
 - [Streamlit](https://streamlit.io/)
 
 ## How to run the project
