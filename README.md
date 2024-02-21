@@ -1,5 +1,7 @@
 # Leveraging Nairobi Stock Exchange (NSE) and OpenAI or any Large Language Model (LLM).
-
+# Demo
+![test](https://media.licdn.com/dms/image/D4D05AQGmTpIdJDoD2g/videocover-low/0/1693827170845?e=1709110800&v=beta&t=dKdd3Pw4sXPm0W-lAdGvM9ioLBPTktC4GRRwlTHvxMM
+)
 This project is an NSE project where you can interact with the NSE 2017 annual report.
 You can ask any kind of question to the PDF using Retrieval Augmented Generation (RAG).
 
