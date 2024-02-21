@@ -21,18 +21,8 @@ https://github.com/nicknochnack
 
 ## License
 
-Copyright (C) 2023 Benson Wamae
+The MIT License is a permissive software license that originated at the Massachusetts Institute of Technology (MIT). It allows users to reuse the code for any purpose, including in proprietary software, as long as they include the original copyright and license notice in any copy of the software/source123. It puts very few restrictions on reuse and has high license compatibility2.
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+For the current version of the MIT License, you can refer to the official [MIT License website](https://opensource.org/license/mit/).
 
 
